@@ -62,7 +62,6 @@ Java              ███████████████░░░░░
 C++               ██████████████░░░░░░
 Data Structures   ████████████░░░░░░░░
 Web Development   ███████████░░░░░░░░░
-Cyber Security    █████████░░░░░░░░░░░
 React.js          ███████░░░░░░░░░░░░░
 ```
 
@@ -81,11 +80,7 @@ React.js          ███████░░░░░░░░░░░░░
 ### 🔹 Web Development
 
 > Websites and frontend projects built using HTML, CSS, JavaScript and React.
-
-### 🔹 Cyber Security Labs
-
-> Educational experiments and cybersecurity learning projects.
-
+> 
 ---
 
 ## 📊 GitHub Statistics
@@ -108,14 +103,6 @@ React.js          ███████░░░░░░░░░░░░░
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 * [ ] Become strong in Java
@@ -123,7 +110,6 @@ React.js          ███████░░░░░░░░░░░░░
 * [ ] Learn Data Structures & Algorithms
 * [ ] Build real-world web projects
 * [ ] Learn React.js
-* [ ] Explore Cyber Security
 * [ ] Contribute to Open Source
 * [ ] Build and deploy personal projects
 
