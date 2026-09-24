@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Bhagirath Rai
 
-### 💻 B.Tech CSE Student | Java & C++ Developer | Web Development | Cyber Security
+### 💻 B.Tech CSE Student | Java & C++ Developer | Web Development 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Bhagirath2120">
+    <img src="https://img.shields.io/github/followers/Bhagirath2120?label=Followers&style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Bhagirath2120">
+    <img src="https://img.shields.io/github/stars/Bhagirath2120?label=Stars&style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -86,7 +86,7 @@ React.js          ███████░░░░░░░░░░░░░
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=Bhagirath2120&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 ---
@@ -107,11 +107,11 @@ React.js          ███████░░░░░░░░░░░░░
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Bhagirath2120">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bhagirath.cs241095@global.org.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
